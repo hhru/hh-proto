@@ -1,5 +1,5 @@
-python3-protobuf (3.5.1+hh1) unstable; urgency=low
+python3-protobuf (3.5.1+hh1) unstable; urgency=medium
 
-  * HH-77810 protocol buffers compiler
+  * HH-77810 python protocol buffers
 
- -- Pertsev Alexei <oeermanz@gmail.com>  Wed, 28 Mar 2018 19:02:14 +0400
+ -- Alexander Mishurov <a.mishurov@hh.ru>  Wed, 04 Apr 2018 17:15:12 +0300
