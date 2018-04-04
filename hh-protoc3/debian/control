@@ -1,0 +1,12 @@
+Source: hh-protoc3
+Section: devel
+Priority: extra
+Maintainer: Pertsev Alexei <oeermanz@gmail.com>
+Build-Depends:
+  cdbs,
+  debhelper (>= 8)
+Standards-Version: 3.8.1
+
+Package: hh-protoc3
+Architecture: all
+Description: protocol buffer compiler

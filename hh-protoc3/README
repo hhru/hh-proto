@@ -1,0 +1,6 @@
+Google Protocol Buffers compiler
+
+wget https://github.com/google/protobuf/releases/download/v3.5.1/protoc-3.5.1-linux-x86_64.zip -O protoc.zip
+unzip -j protoc.zip bin/protoc
+mv protoc protoc3
+rm protoc.zip
